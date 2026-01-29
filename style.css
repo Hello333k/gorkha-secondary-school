@@ -247,6 +247,11 @@ textarea {
 .about-me ul {
   padding-left: 20px;
 }
+  
+
+    
+
+
 
 .about-me ul li::before {
   content: "•";
